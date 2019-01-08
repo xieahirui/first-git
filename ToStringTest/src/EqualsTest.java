@@ -1,5 +1,5 @@
 /*
-    关于Object中的equals方法
+    关于Object中的equals方法c
     Object 中的equals方法：
        public boolean equals(o2){
           return (o1 == o2);

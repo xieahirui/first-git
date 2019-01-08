@@ -1,5 +1,5 @@
 /*
-    关于Object中的toString方法：
+    关于Object中的toString方法：v
        SUN在Object类中的设计toString方法的目的，返回java对象的字符串表示形式。
        在现实的开发过程中，Object里面的toString方法已经不够用了。
        object中的toString方法就是要被重写的。

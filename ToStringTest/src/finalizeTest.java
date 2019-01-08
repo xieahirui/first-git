@@ -1,6 +1,6 @@
 /*
     关于Object中的finalize方法
-    finalize 方法什么时候调用？
+    finalize 方法什么时候调用？jcvn
     1.finalize方法每个java对象都有
     2.finalize方法不需要程序员去调用，由系统自动调用
     3.java对象如果没有更多的引用指向它，则该java对象成为垃圾数据，等待垃圾回收器的回收，垃圾回收器在回收这个
