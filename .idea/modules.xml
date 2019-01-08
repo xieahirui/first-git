@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Super/Super.iml" filepath="$PROJECT_DIR$/Super/Super.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToStringTest/ToStringTest.iml" filepath="$PROJECT_DIR$/ToStringTest/ToStringTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/first-git.iml" filepath="$PROJECT_DIR$/first-git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jichengTest/jichengTest.iml" filepath="$PROJECT_DIR$/jichengTest/jichengTest.iml" />
     </modules>
   </component>
 </project>
